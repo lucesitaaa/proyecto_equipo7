@@ -1,0 +1,36 @@
+h1 {   
+    color: #6630c9;   
+      font-family: 'Poppins', sans-serif;
+     font-size: 28px;
+    font-weight: 600;
+    } 
+    h2 {   
+        color: rgb(233, 13, 141); 
+        }
+        
+.bg-color {
+  background-color: #e8acea8e !important;
+}
+.bg-tic {
+    color: #3666eb !important;
+}
+.bg-tv {
+    color: #6630c9 !important;
+    text-shadow: #c23c8fdf 0.5px 0.5px 0.5px;
+}
+.bg-contact {
+    background-color: #c9bcc983 !important;
+}
+.bg-inyfi {
+    background-color: #0c0c0c !important;
+}
+body {   
+    background-color: #f5c1d1cf;   
+  font-family: 'Poppins', sans-serif;
+    }
+.bg-rosita {
+    background-color: #f5c1d1 !important;
+}   
+.bg-cards {
+    background-color: #ffee6a4f !important;
+}
