@@ -1,0 +1,24 @@
+body {   font-family: 'Times New Roman', Times, serif;   
+    font-size: 20px;
+    background-color: #105a0ea4;   
+    margin: 20px;   color: #000; 
+    } 
+h1 {   
+    color: rgb(168, 15, 15);   
+    text-align: center; 
+    font-size: 40;
+    } 
+    h2 {   
+        color: rgb(0, 0, 0); 
+        } 
+    ul {color:aliceblue;
+        background: #963e3e;
+        font-size: 22px;   
+        padding: 5px;   
+        border: 1px solid #000;   
+        width: 150px; 
+        }
+    .pie {   margin-top: 20px;  
+        font-size: 17px;   
+        color: black; 
+        }
